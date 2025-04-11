@@ -90,8 +90,8 @@ A quienes aman aprender y crear desde cero. A los que ven en la programación un
 
 ¿Tienes sugerencias, mejoras o simplemente te gustó el proyecto?
 
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Email: tu-correo@example.com
+- GitHub: [[@JorgeRuizVar](https://github.com/JorgeRuizVar/Banco_Doussett_Premiere)
+- Email: jorge.ruivargas@gmail.com
 
 ---
 
